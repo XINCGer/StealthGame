@@ -11,5 +11,8 @@
 ![](https://github.com/XINCGer/StealthGame/blob/master/Previews/7.png)  
 ![](https://github.com/XINCGer/StealthGame/blob/master/Previews/8.png)  
 >* 视频演示  
+暂无  
 >* 开发环境  
+Unity5.2.1+C#
 >* 游戏下载  
+[WIN版下载地址](https://yunpan.cn/ckVTNMN4r645h)   访问密码 9657
